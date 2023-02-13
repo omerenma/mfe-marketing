@@ -7,6 +7,7 @@ import Pricing from "./components/Pricing";
 function App() {
 	return (
 		<div>
+		<h1>Marketing App</h1>
 			<StylesProvider>
 				<BrowserRouter>
 					<Switch>
